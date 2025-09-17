@@ -4,7 +4,7 @@ This project uses machine learning and computer vision techniques to classify im
 ## 📌 Project Overview
 
 - Binary classification: Fresh vs. Rotten
-- Built using Python and TensorFlow/Keras (or PyTorch)
+- Built using Python and TensorFlow/Keras
 - Suitable for agricultural automation, food supply chain monitoring, or smart grocery systems
 
 ## 🧠 Model Features
@@ -17,7 +17,7 @@ This project uses machine learning and computer vision techniques to classify im
 ## 📁 Dataset
 
 The dataset consists of labeled images of fruits categorized into "fresh" and "rotten" classes.  
-*(Include the source or link to the dataset if available, e.g., Kaggle, Roboflow, or custom-collected.)*
+mail me for dataset- hareezzvijey2006@gmail.com
 
 Example classes:
 - Fresh Apple
