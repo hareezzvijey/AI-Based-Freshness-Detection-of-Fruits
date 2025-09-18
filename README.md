@@ -1,20 +1,20 @@
 # Fresh-vs.-Rotten-Fruit-Classification
 This project uses machine learning and computer vision techniques to classify images of fruit as either fresh or rotten. The model is trained on a dataset of labeled fruit images and aims to help automate food quality control processes in agriculture, retail, and supply chain settings.
 
-## 📌 Project Overview
+## Project Overview
 
 - Binary classification: Fresh vs. Rotten
 - Built using Python and TensorFlow/Keras
 - Suitable for agricultural automation, food supply chain monitoring, or smart grocery systems
 
-## 🧠 Model Features
+## Model Features
 
 - CNN-based architecture for image classification
 - Image preprocessing and real-time data augmentation
 - Evaluation metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix
 - Supports prediction on new, unseen images
 
-## 📁 Dataset
+## Dataset
 
 The dataset consists of labeled images of fruits categorized into "fresh" and "rotten" classes.  
 mail me for dataset- hareezzvijey2006@gmail.com
